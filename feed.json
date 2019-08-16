@@ -14,14 +14,14 @@
             "url": "https://mischa.xyz/new-site-loading/",
             "title": "New site coming soon",
             "summary": "&hellip;",
-            "content_html": "<img class=\"post__image--full\" src=\"https://mischa.xyz/media/posts/5/londonrelics04.jpeg\" alt=\"\" width=\"1400\" height=\"1102\">",
+            "image": "https://mischa.xyz/media/posts/5/londonrelics04.jpeg",
             "author": {
                 "name": "Mischa"
             },
             "tags": [
             ],
             "date_published": "2019-08-16T16:35:20+01:00",
-            "date_modified": "2019-08-16T16:40:57+01:00"
+            "date_modified": "2019-08-16T16:43:32+01:00"
         }
     ]
 }
