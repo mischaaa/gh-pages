@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://mischaaa.github.io/gh-pages/./ecohostel.html",
+            "url": "https://mischaaa.github.io/gh-pages/./ecohostel.html",
+            "title": "Ecohostel",
+            "summary": "The quadrivium (plural: quadrivia) is the four subjects, or arts (namely arithmetic, geometry, music and astronomy), taught after teaching the trivium. The word is Latin, meaning four ways, and its use for the four subjects has been attributed to Boethius or Cassiodorus in the 6th&hellip;",
+            "content_html": "<p>The <strong>quadrivium</strong> (plural: quadrivia) is the four subjects, or arts (namely arithmetic, geometry, music and astronomy), taught after teaching the <a href=\"https://en.wikipedia.org/wiki/Trivium_(education)\" class=\"mw-redirect\" title=\"Trivium (education)\">trivium</a>. The word is <a href=\"https://en.wikipedia.org/wiki/Latin\" title=\"Latin\">Latin</a>, meaning <i>four ways</i>, and its use for the four subjects has been attributed to <a href=\"https://en.wikipedia.org/wiki/Boethius\" title=\"Boethius\">Boethius</a> or <a href=\"https://en.wikipedia.org/wiki/Cassiodorus\" title=\"Cassiodorus\">Cassiodorus</a> in the 6th century. Together, the <a href=\"https://en.wikipedia.org/wiki/Trivium\" title=\"Trivium\">trivium</a> and the quadrivium comprised the seven <a href=\"https://en.wikipedia.org/wiki/Liberal_arts\" class=\"mw-redirect\" title=\"Liberal arts\">liberal arts</a> (based on thinking skills), as distinguished from the practical arts (such as <a href=\"https://en.wikipedia.org/wiki/Medicine\" title=\"Medicine\">medicine</a> and <a href=\"https://en.wikipedia.org/wiki/Architecture\" title=\"Architecture\">architecture</a>).</p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://mischaaa.github.io/gh-pages/./media/posts/2/gallery/20141215_094932.jpg\" ><img src=\"https://mischaaa.github.io/gh-pages/./media/posts/2/gallery/20141215_094932-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://mischaaa.github.io/gh-pages/./media/posts/2/gallery/Cafe-2.jpg\" ><img src=\"https://mischaaa.github.io/gh-pages/./media/posts/2/gallery/Cafe-2-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://mischaaa.github.io/gh-pages/./media/posts/2/gallery/youth-hostel-bern-007.jpg\" ><img src=\"https://mischaaa.github.io/gh-pages/./media/posts/2/gallery/youth-hostel-bern-007-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"481\"></a></figure>\n</div>",
+            "image": "https://mischaaa.github.io/gh-pages/./media/posts/2/20141215_094932.jpg",
+            "author": {
+                "name": "Mischa"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-16T14:34:12+01:00",
+            "date_modified": "2019-08-16T14:34:12+01:00"
+        },
+        {
             "id": "https://mischaaa.github.io/gh-pages/./testing-publii.html",
             "url": "https://mischaaa.github.io/gh-pages/./testing-publii.html",
             "title": "Testing Publii ",
