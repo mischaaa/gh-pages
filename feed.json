@@ -12,7 +12,7 @@
         {
             "id": "https://mischa.xyz/new-site-loading/",
             "url": "https://mischa.xyz/new-site-loading/",
-            "title": "New site coming soon",
+            "title": "New site coming sooon",
             "summary": "&hellip;",
             "image": "https://mischa.xyz/media/posts/5/londonrelics04.jpeg",
             "author": {
@@ -20,8 +20,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-08-16T16:35:20+01:00",
-            "date_modified": "2019-08-16T16:49:38+01:00"
+            "date_published": "2019-08-16T22:35:20+07:00",
+            "date_modified": "2021-08-04T16:14:01+07:00"
         }
     ]
 }
