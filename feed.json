@@ -14,13 +14,14 @@
             "url": "https://mischa.xyz/osaka-riverside/",
             "title": "Osaka Riverside",
             "content_html": "<img class=\"post__image\" src=\"https://mischa.xyz/media/posts/7/osaka_pitch19.jpg\" alt=\"osaka\" width=\"800\" height=\"3024\">",
+            "image": "https://mischa.xyz/media/posts/7/osaka_pitch19.jpg",
             "author": {
                 "name": "Mischa"
             },
             "tags": [
             ],
             "date_published": "2021-08-11T10:40:22+07:00",
-            "date_modified": "2021-08-11T10:40:22+07:00"
+            "date_modified": "2021-08-11T10:44:15+07:00"
         },
         {
             "id": "https://mischa.xyz/melbourne-nights/",
