@@ -13,7 +13,6 @@
             "id": "https://mischa.xyz/osaka-riverside/",
             "url": "https://mischa.xyz/osaka-riverside/",
             "title": "Osaka Riverside",
-            "summary": "&hellip;",
             "content_html": "<img class=\"post__image\" src=\"https://mischa.xyz/media/posts/7/osaka_pitch19.jpg\" alt=\"osaka\" width=\"800\" height=\"3024\">",
             "author": {
                 "name": "Mischa"
@@ -27,7 +26,6 @@
             "id": "https://mischa.xyz/melbourne-nights/",
             "url": "https://mischa.xyz/melbourne-nights/",
             "title": "Melbourne Nights",
-            "summary": "&hellip;",
             "content_html": "<img class=\"post__image\" src=\"https://mischa.xyz/media/posts/6/melb-2.jpg\" alt=\"melbnight\" width=\"800\" height=\"3513\">",
             "image": "https://mischa.xyz/media/posts/6/melb-2.jpg",
             "author": {
@@ -42,7 +40,7 @@
             "id": "https://mischa.xyz/new-site-loading/",
             "url": "https://mischa.xyz/new-site-loading/",
             "title": "New site coming sooon",
-            "summary": "&hellip;",
+            "summary": "Still Loading....",
             "content_html": "<p class=\"align-center\">Still Loading....</p>",
             "image": "https://mischa.xyz/media/posts/5/londonrelics04.jpeg",
             "author": {
