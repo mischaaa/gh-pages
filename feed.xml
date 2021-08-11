@@ -3,12 +3,29 @@
     <title>mischa.xyz</title>
     <link href="https://mischa.xyz/feed.xml" rel="self" />
     <link href="https://mischa.xyz" />
-    <updated>2021-08-04T16:23:47+07:00</updated>
+    <updated>2021-08-11T10:34:27+07:00</updated>
     <author>
         <name>Mischa</name>
     </author>
     <id>https://mischa.xyz</id>
 
+    <entry>
+        <title>Melbourne Nights</title>
+        <author>
+            <name>Mischa</name>
+        </author>
+        <link href="https://mischa.xyz/melbourne-nights/"/>
+        <id>https://mischa.xyz/melbourne-nights/</id>
+
+        <updated>2021-08-10T18:31:13+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mischa.xyz/media/posts/6/melb-2.jpg" alt="" />
+                    &hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>New site coming sooon</title>
         <author>
@@ -17,13 +34,18 @@
         <link href="https://mischa.xyz/new-site-loading/"/>
         <id>https://mischa.xyz/new-site-loading/</id>
 
-        <updated>2021-08-04T16:14:01+07:00</updated>
+        <updated>2021-08-11T10:34:16+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mischa.xyz/media/posts/5/londonrelics04.jpeg" alt="" />
                     &hellip;
                 ]]>
             </summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mischa.xyz/media/posts/5/londonrelics04.jpeg" alt="" />
+                <p class="align-center">Still Loading....</p>
+            ]]>
+        </content>
     </entry>
 </feed>
