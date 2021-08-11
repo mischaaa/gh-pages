@@ -3,7 +3,7 @@
     <title>mischa.xyz</title>
     <link href="https://mischa.xyz/feed.xml" rel="self" />
     <link href="https://mischa.xyz" />
-    <updated>2021-08-11T10:34:27+07:00</updated>
+    <updated>2021-08-11T10:36:59+07:00</updated>
     <author>
         <name>Mischa</name>
     </author>
@@ -17,14 +17,19 @@
         <link href="https://mischa.xyz/melbourne-nights/"/>
         <id>https://mischa.xyz/melbourne-nights/</id>
 
-        <updated>2021-08-10T18:31:13+07:00</updated>
+        <updated>2021-08-11T10:36:25+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mischa.xyz/media/posts/6/melb-2.jpg" alt="" />
                     &hellip;
                 ]]>
             </summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mischa.xyz/media/posts/6/melb-2.jpg" alt="" />
+                <img class="post__image" src="https://mischa.xyz/media/posts/6/melb-2.jpg" alt="melbnight" width="800" height="3513">
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>New site coming sooon</title>
