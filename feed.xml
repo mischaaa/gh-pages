@@ -3,7 +3,7 @@
     <title>mischa.xyz</title>
     <link href="https://mischa.xyz/feed.xml" rel="self" />
     <link href="https://mischa.xyz" />
-    <updated>2023-12-16T12:50:42+07:00</updated>
+    <updated>2023-12-16T13:01:24+07:00</updated>
     <author>
         <name>Mischa</name>
     </author>
@@ -16,12 +16,14 @@
         </author>
         <link href="https://mischa.xyz/thiibaanainhubekhaaanekhiiywkhcchii/"/>
         <id>https://mischa.xyz/thiibaanainhubekhaaanekhiiywkhcchii/</id>
+        <media:content url="https://mischa.xyz/media/posts/8/valleys2.jpg" medium="image" />
 
-        <updated>2023-12-16T12:50:42+07:00</updated>
+        <updated>2023-12-16T13:01:24+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://mischa.xyz/media/posts/8/valleys.jpg" alt="" width="2000" height="1506" sizes="(max-width: 48em) 100vw, 768px" srcset="https://mischa.xyz/media/posts/8/responsive/valleys-xs.jpg 300w ,https://mischa.xyz/media/posts/8/responsive/valleys-sm.jpg 480w ,https://mischa.xyz/media/posts/8/responsive/valleys-md.jpg 768w ,https://mischa.xyz/media/posts/8/responsive/valleys-lg.jpg 1024w ,https://mischa.xyz/media/posts/8/responsive/valleys-xl.jpg 1360w ,https://mischa.xyz/media/posts/8/responsive/valleys-2xl.jpg 1600w"></figure>
+                    <p><img src="https://mischa.xyz/media/posts/8/valleys2.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://mischa.xyz/media/posts/8/valleys.jpg" alt="" width="3000" height="2259" sizes="(max-width: 48em) 100vw, 768px" srcset="https://mischa.xyz/media/posts/8/responsive/valleys-xs.jpg 300w ,https://mischa.xyz/media/posts/8/responsive/valleys-sm.jpg 480w ,https://mischa.xyz/media/posts/8/responsive/valleys-md.jpg 768w ,https://mischa.xyz/media/posts/8/responsive/valleys-lg.jpg 1024w ,https://mischa.xyz/media/posts/8/responsive/valleys-xl.jpg 1360w ,https://mischa.xyz/media/posts/8/responsive/valleys-2xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>
