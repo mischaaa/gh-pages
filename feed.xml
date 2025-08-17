@@ -3,7 +3,7 @@
     <title>mischa.xyz</title>
     <link href="https://mischa.xyz/feed.xml" rel="self" />
     <link href="https://mischa.xyz" />
-    <updated>2025-08-17T20:31:16+07:00</updated>
+    <updated>2025-08-17T20:36:35+07:00</updated>
     <author>
         <name>Mischa</name>
     </author>
@@ -16,11 +16,13 @@
         </author>
         <link href="https://mischa.xyz/chao-phraya/"/>
         <id>https://mischa.xyz/chao-phraya/</id>
+        <media:content url="https://mischa.xyz/media/posts/10/bktri.jpg" medium="image" />
 
         <updated>2025-08-17T20:31:16+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://mischa.xyz/media/posts/10/bktri.jpg" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img loading="lazy"  src="https://mischa.xyz/media/posts/10/bktri-3.jpg" alt="" width="4752" height="3168" sizes="(max-width: 48em) 100vw, 768px" srcset="https://mischa.xyz/media/posts/10/responsive/bktri-3-xs.jpg 300w ,https://mischa.xyz/media/posts/10/responsive/bktri-3-sm.jpg 480w ,https://mischa.xyz/media/posts/10/responsive/bktri-3-md.jpg 768w ,https://mischa.xyz/media/posts/10/responsive/bktri-3-lg.jpg 1024w ,https://mischa.xyz/media/posts/10/responsive/bktri-3-xl.jpg 1360w ,https://mischa.xyz/media/posts/10/responsive/bktri-3-2xl.jpg 1600w"></figure>
             ]]>
         </content>
