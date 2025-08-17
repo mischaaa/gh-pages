@@ -3,12 +3,46 @@
     <title>mischa.xyz</title>
     <link href="https://mischa.xyz/feed.xml" rel="self" />
     <link href="https://mischa.xyz" />
-    <updated>2023-12-16T13:01:24+07:00</updated>
+    <updated>2025-08-17T20:31:16+07:00</updated>
     <author>
         <name>Mischa</name>
     </author>
     <id>https://mischa.xyz</id>
 
+    <entry>
+        <title>Chao Phraya</title>
+        <author>
+            <name>Mischa</name>
+        </author>
+        <link href="https://mischa.xyz/chao-phraya/"/>
+        <id>https://mischa.xyz/chao-phraya/</id>
+
+        <updated>2025-08-17T20:31:16+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://mischa.xyz/media/posts/10/bktri-3.jpg" alt="" width="4752" height="3168" sizes="(max-width: 48em) 100vw, 768px" srcset="https://mischa.xyz/media/posts/10/responsive/bktri-3-xs.jpg 300w ,https://mischa.xyz/media/posts/10/responsive/bktri-3-sm.jpg 480w ,https://mischa.xyz/media/posts/10/responsive/bktri-3-md.jpg 768w ,https://mischa.xyz/media/posts/10/responsive/bktri-3-lg.jpg 1024w ,https://mischa.xyz/media/posts/10/responsive/bktri-3-xl.jpg 1360w ,https://mischa.xyz/media/posts/10/responsive/bktri-3-2xl.jpg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Rivers and Valleys</title>
+        <author>
+            <name>Mischa</name>
+        </author>
+        <link href="https://mischa.xyz/rivers-and-valleys/"/>
+        <id>https://mischa.xyz/rivers-and-valleys/</id>
+        <media:content url="https://mischa.xyz/media/posts/9/julypic.jpg" medium="image" />
+
+        <updated>2024-08-18T20:24:03+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://mischa.xyz/media/posts/9/julypic.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://mischa.xyz/media/posts/9/julypic-2.jpg" alt="" width="4080" height="3072" sizes="(max-width: 48em) 100vw, 768px" srcset="https://mischa.xyz/media/posts/9/responsive/julypic-2-xs.jpg 300w ,https://mischa.xyz/media/posts/9/responsive/julypic-2-sm.jpg 480w ,https://mischa.xyz/media/posts/9/responsive/julypic-2-md.jpg 768w ,https://mischa.xyz/media/posts/9/responsive/julypic-2-lg.jpg 1024w ,https://mischa.xyz/media/posts/9/responsive/julypic-2-xl.jpg 1360w ,https://mischa.xyz/media/posts/9/responsive/julypic-2-2xl.jpg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>ที่บ้านในหุบเขาอันเขียวขจี</title>
         <author>
@@ -18,7 +52,7 @@
         <id>https://mischa.xyz/thiibaanainhubekhaaanekhiiywkhcchii/</id>
         <media:content url="https://mischa.xyz/media/posts/8/valleys2.jpg" medium="image" />
 
-        <updated>2023-12-16T13:01:24+07:00</updated>
+        <updated>2023-12-16T12:50:42+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -36,7 +70,7 @@
         <id>https://mischa.xyz/osaka-riverside/</id>
         <media:content url="https://mischa.xyz/media/posts/7/osaka_pitch19.jpg" medium="image" />
 
-        <updated>2021-08-11T10:44:15+07:00</updated>
+        <updated>2021-08-11T10:40:22+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -54,7 +88,7 @@
         <id>https://mischa.xyz/melbourne-nights/</id>
         <media:content url="https://mischa.xyz/media/posts/6/melb-2.jpg" medium="image" />
 
-        <updated>2021-08-11T10:36:25+07:00</updated>
+        <updated>2021-08-10T18:31:13+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -72,7 +106,7 @@
         <id>https://mischa.xyz/new-site-loading/</id>
         <media:content url="https://mischa.xyz/media/posts/5/londonrelics04.jpeg" medium="image" />
 
-        <updated>2021-08-11T10:34:16+07:00</updated>
+        <updated>2019-08-16T22:35:20+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mischa.xyz/media/posts/5/londonrelics04.jpeg" alt="" />
